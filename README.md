@@ -1,4 +1,4 @@
-# Group p
+# Group P
 ## **American Sign Language**
 
 People with special needs have always struggled to communicate and express themselves. The general public's failure to acquire sign language is causing a communication vacuum, and as a result, the specially-abled have limited access to school and nearly no opportunities for gainful employment.
@@ -10,9 +10,9 @@ Presentation Link - check here
 
 ### **Requirements to run your Python code** 
 
-**Step 1 :** Pull the code file into any code editor supporting .ipynb files
-**Step 2 :** Download the dataset1 , dataset2 and dataset3 from Kaggle.
-**Step 3 :** Install all the necessary imports mentioned in the .ipynb code files using pip.(preferred installer program)
+**Step 1 :** Pull the code file into any code editor supporting .ipynb files.\n
+**Step 2 :** Download the dataset1 , dataset2 and dataset3 from Kaggle.\n
+**Step 3 :** Install all the necessary imports mentioned in the .ipynb code files using pip.(preferred installer program.\n
 Note: If you are using google colab you can easily perform the above mentioned steps.
 
 ### **Instruction on how to train/validate your model**
