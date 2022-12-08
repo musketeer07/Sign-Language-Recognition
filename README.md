@@ -10,9 +10,12 @@ Presentation Link - check here
 
 ### **Requirements to run your Python code** 
 
-**Step 1 :** Pull the code file into any code editor supporting .ipynb files.\n
-**Step 2 :** Download the dataset1 , dataset2 and dataset3 from Kaggle.\n
-**Step 3 :** Install all the necessary imports mentioned in the .ipynb code files using pip.(preferred installer program.\n
+**Step 1 :** Pull the code file into any code editor supporting .ipynb files.
+
+**Step 2 :** Download the dataset1 , dataset2 and dataset3 from Kaggle.
+
+**Step 3 :** Install all the necessary imports mentioned in the .ipynb code files using pip.(preferred installer program.
+
 Note: If you are using google colab you can easily perform the above mentioned steps.
 
 ### **Instruction on how to train/validate your model**
