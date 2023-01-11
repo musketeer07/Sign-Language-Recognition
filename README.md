@@ -3,7 +3,7 @@
 
 Communication and self-expression have always been difficult for people with special needs. Due to a communication gap created by the general public's inability to learn sign language, people with disabilities have little access to education and few prospects for successful work.
 
-We examined this problem description and did our utmost to close any gaps and we took steps to improve the situation with our project's effor.
+We examined this problem description and did our utmost to close any gaps and we took steps to improve the situation with our project's effort.
 
 Presentation Link - check here
 
