@@ -1,4 +1,3 @@
-# Group P
 ## **American Sign Language**
 
 Communication and self-expression have always been difficult for people with special needs. Due to a communication gap created by the general public's inability to learn sign language, people with disabilities have little access to education and few prospects for successful work.
